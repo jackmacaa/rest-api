@@ -1,0 +1,16 @@
+{
+    "ba809cdc-0d59-4790-b947-76e0de7e2f49": {
+        "id": "ba809cdc-0d59-4790-b947-76e0de7e2f49",
+        "name": "cards",
+        "price": 12,
+        "quantity": 5,
+        "image": "image.jpeg"
+    },
+    "782504b2-e7c3-49f1-9ef9-4b11d71e0ae1": {
+        "id": "782504b2-e7c3-49f1-9ef9-4b11d71e0ae1",
+        "name": "table",
+        "price": 100,
+        "quantity": 2,
+        "image": "image2.jpeg"
+    }
+}
